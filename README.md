@@ -1,4 +1,4 @@
-# w2p_redirector
+# Web2py redirector
 An easy to use [web2py][] redirection application.
 
 Originally intended to be placed behind a reverse proxy that handles a part of the URL rewriting from the outside.
