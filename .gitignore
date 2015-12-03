@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 
+databases/*.log
+
+uploads/
+
 # C extensions
 *.so
 
